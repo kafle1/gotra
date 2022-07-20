@@ -3,7 +3,7 @@
       "id": "1",
       "gotra": "Agasti",
       "gotraNepali": "अगस्ती",
-      "castes": "Dhungel"
+      "castes": ["Dhungel"]
     },
     {
       "id": "2",
