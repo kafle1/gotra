@@ -1,154 +1,340 @@
 [
-    {
-      "id": "1",
-      "gotra": "Agasti",
-      "gotraNepali": "अगस्ती",
-      "castes": ["Dhungel"]
-    },
-    {
-      "id": "2",
-      "gotra": "Angira",
-      "gotraNepali": "अंगिरा",
-      "castes": ["Joshi", "Sedai", "Saunak", "Shahi"]
-    },
-    {
-      "id": "3",
-      "gotra": "Atri",
-      "gotraNepali": "अत्रि",
-      "castes": ["Adhikari", "Arjel/Arjyal", "Bam (Raakse Thakuri)", "Bhatta (Pashupat)", "Chapagai", "Gotame", "Khatiwoda", "Mishra", "Ojha", "Wosti"]
-    },
-    {
-      "id": "4",
-      "gotra": "Aatreya",
-      "gotraNepali": "आत्रेय",
-      "castes": ["Aryal", "Bhatta (Duwadi)", "Devkota", "Dawadi", "Dulal", "Kalikote (Khadka)", "Paudel", "Pokharel (Pani)", "Rosyara", "Sharma", "Sigdel", "Thapa (Bagale)"]
-    },
-    {
-      "id": "5",
-      "gotra": "Bharadwaaj",
-      "gotraNepali": "भरद्वाज",
-      "castes": ["Adhikari", "Bhatta (Palyal)", "Chaulagai", "Devkota", "Jamarkattel", "Lohani", "Niraula", "Panthi", "Pandey (Kuleta)", "Panta", "Pokharel (Dudh)", "Rawat", "Shahi", "Siwakoti / Shiwakoti", "Subedi", "Thami (Adhikari)", "Thapaliya", "Upadhaya", "Wagle", "Bhandari (Niraula, Suntakhane)"]
-    },
-    {
-      "id": "6",
-      "gotra": "Dhananjaya",
-      "gotraNepali": "धनञ्जय",
-      "castes": ["Basel/ Batsayal", "Basnet", "Bhusal", "Budhathoki (Khulal)", "Dhamala", "Gauripitri/ Gairipippli", "Guragai", "Humagai", "Karki (Khulal)", "Khadka (Khulal)", "Kukurkote", "Kunwar", "Pangeni", "Rijal", "Thapa", "Bhandari (Bhusal)"]
-    },
-    {
-      "id": "7",
-      "gotra": "Garg",
-      "gotraNepali": "गर्ग",
-      "castes": ["Bastola", "Bhatta (Lamichhane)", "Bhetuwal", "Bhurtel", "Chudal", "Gajurel", "Khetan", "Thapa (Lamichhane)", "Rokaha", "Rishal", "Shah (Kaskeli Khand)"]
-    },
-    {
-      "id": "8",
-      "gotra": "Gautam",
-      "gotraNepali": "गौतम",
-      "castes": ["Chanda", "Bam (Thakuri)", "Dangal", "Mahat", "Pandey (Paleu)", "Tripathi", "Tiwari"]
-    },
-    {
-      "id": "9",
-      "gotra": "Ghrita Kaushi",
-      "gotraNepali": "घृत कौशिक",
-      "castes": ["Baral", "Karki (Sutar)", "Khanal", "Nepal", "Pandit"]
-    },
-    {
-      "id": "10",
-      "gotra": "Kapil",
-      "gotraNepali": "कपिल",
-      "castes": ["Khati", "Daani", "Bohora"]
-    },
-    {
-      "id": "11",
-      "gotra": "Kashyap",
-      "gotraNepali": "कश्यप",
-      "castes": ["Adhikari (Bhadare, Khilchine and Kaubali)", "Badaal", "Bhatta (Kalauni, Mushyal)", "Bogati", "Budhathoki (Sodari)", "Darji", "Gadtaula", "Gartaula", "Ghimire", "Hada", "Kathayat", "Kumal", "Kumbhairana", "Pade", "Pandey (Badkhora)", "Badaal", "Bhumihar", "Simaaldiya)", "Rayamajhi", "Shah (Thakuri)", "Sahi", "Thapa (Godar)", "Tiwari"]
-    },
-    {
-      "id": "12",
-      "gotra": "Kaudinya",
-      "gotraNepali": "कौण्डिन्य",
-      "castes": ["Achraya", "Baskota", "Bhandari (Kaala)", "Gaagle", "Joshi", "Khadka", "Kharel", "Marashini", "Neupane", "Pakurel", "Paneru", "Pathak", "Parajuli", "Sapkota", Satyal, "Thapa (Bagale and Gamle)", "Trital"]
-    },
-    {
-      "id": "13",
-      "gotra": "Kausalya",
-      "gotraNepali": "कौसल्य",
-      "castes": ["Pathak", "(Chhettri)"]
-    },
-    {
-      "id": "14",
-      "gotra": "Kausik",
-      "gotraNepali": "कौशिक",
-      "castes": ["Bam (Chhatyal Thakuri)", "Baniya", "Bastakoti", "Bhandari (Aachhami)", "Bidari","Dhital", "Dhungana", "Gaudel", "Khadka", "Khapatari (Khadka, Bistha, Budhathoki and Basnet)", "Lamichhane", "Luitel", "Majhi", "Pathak", "Phuyal", "Pudasaini", "Raghubansi", "Regmi", "Rimal", "Sanjel", "Shahi (Sijapati)", "Tiwari", "Thami"]
-    },
-    {
-      "id": "15",
-      "gotra": "Kundin",
-      "gotraNepali": "कुण्डिन",
-      "castes": ["Trital, Banjad/ Banjade"]
-    },
-    {
-      "id": "16",
-      "gotra": "Mandabya",
-      "gotraNepali": "माण्डव्य",
-      "castes": ["Bajagai", "Bajhai", "Gyawali", "Katuwal", "Maskey", "Panthi [Bhandari (Bajgain)]"]
-    },
-    {
-      "id": "17",
-      "gotra": "Maudagalya",
-      "gotraNepali": "मौद्गल्य",
-      "castes": ["Belkadhi", "Karki (Mudula)", "Koirala", "Kuinkel", "Rume", "Simkhada", "Timsina/ Timilsina", "Upreti"]
-    },
-    {
-      "id": "18",
-      "gotra": "Parasar",
-      "gotraNepali": "परासर",
-      "castes":  ["Dhimal (khas)", "Karki (Lama)", "Kattel", "Marhattha"]
-    },
-    {
-      "id": "19",
-      "gotra": "Ravi",
-      "gotraNepali": "रवि",
-      "castes":  ["Shah (Kalyaal Thakuri)"]
-    },
-    {
-      "id": "20",
-      "gotra": "Sankhyayan",
-      "gotraNepali": "सङ्ख्यायन",
-      "castes":  ["Pandey (Desh)"]
-    },
-    {
-      "id": "21",
-      "gotra": "Shandilya",
-      "gotraNepali": "शाण्डिल्य",
-      "castes":  ["Kafle/ Kaphle", "Mahat", "Pathak", "Prasai", "Tiwari"]
-    },
-    {
-      "id": "22",
-      "gotra": "Upamanyu",
-      "gotraNepali": "उपमन्यु",
-      "castes":  ["Bartaula", "Bhatta (Duwal)", "Dhakal", "Mainali", "Pathak"]
-    },
-    {
-      "id": "23",
-      "gotra": "Vishwamitra",
-      "gotraNepali": "विश्वमित्र",
-      "castes":  ["Bhatta (Alina, Dumadi, Nirbansi, Rai and Rayal)"]
-    },
-    {
-      "id": "24",
-      "gotra": "Vatsa",
-      "gotraNepali": "वत्स",
-      "castes":  ["Bhatta (Naagar)", "Dahal", "Dayal", "Kuwar", "Kharaal", "Lamsal", "Rana", "Rupakheti"]
-    },
-    {
-      "id": "25",
-      "gotra": "Vashishta",
-      "gotraNepali": "वशिष्ठ",
-      "castes":  ["Bhandari (Thansinghe)", "Bhatta (Tapleli)","Bhattarai", "Chalise", "Dawadi", "Gaire", "Gamnage", "Kharel", "Mudabhari", "Pathak", "Raut", "Suyal (Garthi)", "Suyal (Thapa)", "Thangsine"]
-    },
-
-
-  ]
+  {
+    "id": "1",
+    "gotra": "Agasti",
+    "gotraNepali": "अगस्ती",
+    "castes": ["Dhungel"]
+  },
+  {
+    "id": "2",
+    "gotra": "Angira",
+    "gotraNepali": "अंगिरा",
+    "castes": ["Joshi", "Sedai", "Saunak", "Shahi"]
+  },
+  {
+    "id": "3",
+    "gotra": "Atri",
+    "gotraNepali": "अत्रि",
+    "castes": [
+      "Adhikari",
+      "Arjel/Arjyal",
+      "Bam (Raakse Thakuri)",
+      "Bhatta (Pashupat)",
+      "Chapagai",
+      "Gotame",
+      "Khatiwoda",
+      "Mishra",
+      "Ojha",
+      "Wosti"
+    ]
+  },
+  {
+    "id": "4",
+    "gotra": "Aatreya",
+    "gotraNepali": "आत्रेय",
+    "castes": [
+      "Aryal",
+      "Bhatta (Duwadi)",
+      "Devkota",
+      "Dawadi",
+      "Dulal",
+      "Kalikote (Khadka)",
+      "Paudel",
+      "Pokharel (Pani)",
+      "Rosyara",
+      "Sharma",
+      "Sigdel",
+      "Thapa (Bagale)"
+    ]
+  },
+  {
+    "id": "5",
+    "gotra": "Bharadwaaj",
+    "gotraNepali": "भरद्वाज",
+    "castes": [
+      "Adhikari",
+      "Bhatta (Palyal)",
+      "Chaulagai",
+      "Devkota",
+      "Jamarkattel",
+      "Lohani",
+      "Niraula",
+      "Panthi",
+      "Pandey (Kuleta)",
+      "Panta",
+      "Pokharel (Dudh)",
+      "Rawat",
+      "Shahi",
+      "Siwakoti / Shiwakoti",
+      "Subedi",
+      "Thami (Adhikari)",
+      "Thapaliya",
+      "Upadhaya",
+      "Wagle",
+      "Bhandari (Niraula, Suntakhane)"
+    ]
+  },
+  {
+    "id": "6",
+    "gotra": "Dhananjaya",
+    "gotraNepali": "धनञ्जय",
+    "castes": [
+      "Basel/ Batsayal",
+      "Basnet",
+      "Bhusal",
+      "Budhathoki (Khulal)",
+      "Dhamala",
+      "Gauripitri/ Gairipippli",
+      "Guragai",
+      "Humagai",
+      "Karki (Khulal)",
+      "Khadka (Khulal)",
+      "Kukurkote",
+      "Kunwar",
+      "Pangeni",
+      "Rijal",
+      "Thapa",
+      "Bhandari (Bhusal)"
+    ]
+  },
+  {
+    "id": "7",
+    "gotra": "Garg",
+    "gotraNepali": "गर्ग",
+    "castes": [
+      "Bastola",
+      "Bhatta (Lamichhane)",
+      "Bhetuwal",
+      "Bhurtel",
+      "Chudal",
+      "Gajurel",
+      "Khetan",
+      "Thapa (Lamichhane)",
+      "Rokaha",
+      "Rishal",
+      "Shah (Kaskeli Khand)"
+    ]
+  },
+  {
+    "id": "8",
+    "gotra": "Gautam",
+    "gotraNepali": "गौतम",
+    "castes": [
+      "Chanda",
+      "Bam (Thakuri)",
+      "Dangal",
+      "Mahat",
+      "Pandey (Paleu)",
+      "Tripathi",
+      "Tiwari"
+    ]
+  },
+  {
+    "id": "9",
+    "gotra": "Ghrita Kaushi",
+    "gotraNepali": "घृत कौशिक",
+    "castes": ["Baral", "Karki (Sutar)", "Khanal", "Nepal", "Pandit"]
+  },
+  {
+    "id": "10",
+    "gotra": "Kapil",
+    "gotraNepali": "कपिल",
+    "castes": ["Khati", "Daani", "Bohora"]
+  },
+  {
+    "id": "11",
+    "gotra": "Kashyap",
+    "gotraNepali": "कश्यप",
+    "castes": [
+      "Adhikari (Bhadare, Khilchine and Kaubali)",
+      "Badaal",
+      "Bhatta (Kalauni, Mushyal)",
+      "Bogati",
+      "Budhathoki (Sodari)",
+      "Darji",
+      "Gadtaula",
+      "Gartaula",
+      "Ghimire",
+      "Hada",
+      "Kathayat",
+      "Kumal",
+      "Kumbhairana",
+      "Pade",
+      "Pandey (Badkhora)",
+      "Badaal",
+      "Bhumihar",
+      "Simaaldiya)",
+      "Rayamajhi",
+      "Shah (Thakuri)",
+      "Sahi",
+      "Thapa (Godar)",
+      "Tiwari"
+    ]
+  },
+  {
+    "id": "12",
+    "gotra": "Kaudinya",
+    "gotraNepali": "कौण्डिन्य",
+    "castes": [
+      "Achraya",
+      "Baskota",
+      "Bhandari (Kaala)",
+      "Gaagle",
+      "Joshi",
+      "Khadka",
+      "Kharel",
+      "Marashini",
+      "Neupane",
+      "Pakurel",
+      "Paneru",
+      "Pathak",
+      "Parajuli",
+      "Sapkota",
+      "Satyal",
+      "Thapa (Bagale and Gamle)",
+      "Trital"
+    ]
+  },
+  {
+    "id": "13",
+    "gotra": "Kausalya",
+    "gotraNepali": "कौसल्य",
+    "castes": ["Pathak", "(Chhettri)"]
+  },
+  {
+    "id": "14",
+    "gotra": "Kausik",
+    "gotraNepali": "कौशिक",
+    "castes": [
+      "Bam (Chhatyal Thakuri)",
+      "Baniya",
+      "Bastakoti",
+      "Bhandari (Aachhami)",
+      "Bidari",
+      "Dhital",
+      "Dhungana",
+      "Gaudel",
+      "Khadka",
+      "Khapatari (Khadka, Bistha, Budhathoki and Basnet)",
+      "Lamichhane",
+      "Luitel",
+      "Majhi",
+      "Pathak",
+      "Phuyal",
+      "Pudasaini",
+      "Raghubansi",
+      "Regmi",
+      "Rimal",
+      "Sanjel",
+      "Shahi (Sijapati)",
+      "Tiwari",
+      "Thami"
+    ]
+  },
+  {
+    "id": "15",
+    "gotra": "Kundin",
+    "gotraNepali": "कुण्डिन",
+    "castes": ["Trital, Banjad/ Banjade"]
+  },
+  {
+    "id": "16",
+    "gotra": "Mandabya",
+    "gotraNepali": "माण्डव्य",
+    "castes": [
+      "Bajagai",
+      "Bajhai",
+      "Gyawali",
+      "Katuwal",
+      "Maskey",
+      "Panthi [Bhandari (Bajgain)]"
+    ]
+  },
+  {
+    "id": "17",
+    "gotra": "Maudagalya",
+    "gotraNepali": "मौद्गल्य",
+    "castes": [
+      "Belkadhi",
+      "Karki (Mudula)",
+      "Koirala",
+      "Kuinkel",
+      "Rume",
+      "Simkhada",
+      "Timsina/ Timilsina",
+      "Upreti"
+    ]
+  },
+  {
+    "id": "18",
+    "gotra": "Parasar",
+    "gotraNepali": "परासर",
+    "castes": ["Dhimal (khas)", "Karki (Lama)", "Kattel", "Marhattha"]
+  },
+  {
+    "id": "19",
+    "gotra": "Ravi",
+    "gotraNepali": "रवि",
+    "castes": ["Shah (Kalyaal Thakuri)"]
+  },
+  {
+    "id": "20",
+    "gotra": "Sankhyayan",
+    "gotraNepali": "सङ्ख्यायन",
+    "castes": ["Pandey (Desh)"]
+  },
+  {
+    "id": "21",
+    "gotra": "Shandilya",
+    "gotraNepali": "शाण्डिल्य",
+    "castes": ["Kafle", "Kaphle", "Mahat", "Pathak", "Prasai", "Tiwari"]
+  },
+  {
+    "id": "22",
+    "gotra": "Upamanyu",
+    "gotraNepali": "उपमन्यु",
+    "castes": ["Bartaula", "Bhatta (Duwal)", "Dhakal", "Mainali", "Pathak"]
+  },
+  {
+    "id": "23",
+    "gotra": "Vishwamitra",
+    "gotraNepali": "विश्वमित्र",
+    "castes": ["Bhatta (Alina, Dumadi, Nirbansi, Rai and Rayal)"]
+  },
+  {
+    "id": "24",
+    "gotra": "Vatsa",
+    "gotraNepali": "वत्स",
+    "castes": [
+      "Bhatta (Naagar)",
+      "Dahal",
+      "Dayal",
+      "Kuwar",
+      "Kharaal",
+      "Lamsal",
+      "Rana",
+      "Rupakheti"
+    ]
+  },
+  {
+    "id": "25",
+    "gotra": "Vashishta",
+    "gotraNepali": "वशिष्ठ",
+    "castes": [
+      "Bhandari (Thansinghe)",
+      "Bhatta (Tapleli)",
+      "Bhattarai",
+      "Chalise",
+      "Dawadi",
+      "Gaire",
+      "Gamnage",
+      "Kharel",
+      "Mudabhari",
+      "Pathak",
+      "Raut",
+      "Suyal (Garthi)",
+      "Suyal (Thapa)",
+      "Thangsine"
+    ]
+  }
+]
