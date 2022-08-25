@@ -6,6 +6,13 @@ const toTitleCase = (text) => {
     .replace(/\s/g, "");
 };
 
+
 module.exports = {
   toTitleCase,
 };
+
+
+
+
+
+

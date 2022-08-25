@@ -5,7 +5,7 @@ const app = require("./app.js");
 
 
 const PORT = process.env.PORT || 5000;
-const CONNECTION_PORT = "mongodb://localhost:27017/test";
+const CONNECTION_PORT = "mongodb://0.0.0.0:27017/test";
 
 
 const server = http.createServer(app);
