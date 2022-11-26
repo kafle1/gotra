@@ -5,8 +5,8 @@ const gotraRouter = express.Router();
 
 
 gotraRouter.get("/gotras", getAllGotras);
-gotraRouter.get("/gotra/:name", getGotraByName);
-gotraRouter.get("/gotra/id/:id", getGotraById);
+gotraRouter.get("/gotra/:id", getGotraById);
+gotraRouter.get("/gotra/name/:name", getGotraByName);
 gotraRouter.get("/gotra/caste/:caste", getGotraByCaste);
 
 module.exports = gotraRouter;
