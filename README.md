@@ -6,7 +6,7 @@
 
 > Gotra API is an open source API platform to get details of all the gotras of hindu religions along with Nepali castes.
 
-### ✨ [Base URL](https://gotra.up.railway.app)
+### ✨ [Base URL](https://gotra.up.railway.app/api/)
 ### ✨ [Documentation](https://documenter.getpostman.com/view/12627760/2s8YstUDWB)
 
 
