@@ -4,7 +4,7 @@
 [![License: GPL--3.0](https://img.shields.io/badge/License-GPL--3.0-yellow.svg)](https://github.com/kafle1/gotra/blob/master/LICENSE)
 [![Twitter: buckwheat8848](https://img.shields.io/twitter/follow/buckwheat8848.svg?style=social)](https://twitter.com/buckwheat8848)
 
-> Gotra API is an open source API platform to get details of all the gotras of hindu religions along with Nepali castes.
+> Gotra API is an open source API to get details of all the gotras of hindu religion along with Nepali castes.
 
 ### ✨ [Base URL](https://gotra.up.railway.app/api/)
 ### ✨ [Documentation](https://documenter.getpostman.com/view/12627760/2s8YstUDWB)
