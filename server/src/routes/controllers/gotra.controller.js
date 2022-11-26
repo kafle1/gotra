@@ -65,7 +65,6 @@ const getGotraByName = async (req, res) => {
 
 //GET gotra by caste
 const getGotraByCaste = async (req, res) => {
-  console.log("caste",req.params.caste);
   const caste = toTitleCase(req.params.caste);
 
   //Validate if name is empty
@@ -83,8 +82,8 @@ const getGotraByCaste = async (req, res) => {
   }
 
   try {
-    const gotra = await Gotra.findOne({castes: {$in : [caste]}});
-    if (!gotra) {
+    const gotra = await Gotra.find({castes : {$regex : caste}});
+    if (!gotra || gotra.length === 0) {
       return res.status(404).json({ error: "Gotra not found" });
     } else {
       return res.status(200).json(gotra);
