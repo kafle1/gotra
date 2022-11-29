@@ -52,8 +52,8 @@ const getGotraByName = async (req, res) => {
   }
 
   try {
-    const gotra = await Gotra.findOne({ gotra: name });
-    if (!gotra) {
+    const gotra = await Gotra.findOne({ gotra: {$regex: name} });
+    if (!gotra || gotra.length === 0) {
       return res.status(404).json({ error: "Gotra not found" });
     } else {
       return res.status(200).json(gotra);
